@@ -172,17 +172,26 @@ We do NOT collect:
 
 Admin-only app with Firebase Auth + role verification.
 
-13. CHILD SAFETY STANDARD
+13. CHILD SAFETY STANDARDS POLICY
 
-E-Church:Church Partner Child Safety Standards
+E-Church: Church Partner by Litz Tech India Pvt Ltd explicitly prohibits Child Sexual Abuse and Exploitation (CSAE).
 
-Our app strictly prohibits child sexual abuse and exploitation (CSAE):
+E-Church: Church Partner Published Standards:
+✅ Functional: Admin-only app loads without errors
+✅ Scope: Zero tolerance for CSAE content/material
+✅ References: E-Church: Church Partner by Litz Tech India Pvt Ltd
 
-• Zero tolerance policy - CSAE content/users immediately banned & reported to NCMEC
-• Church admin/moderator-only access with age verification
-• No public user-generated content from minors
-• All media uploads reviewed by church staff before approval
-• Complies with COPPA and all child safety regulations
+Specific Prohibitions:
+• No minors permitted (18+ admin verification only)
+• No user-generated content/sharing features
+• No photo/video/camera access for end users
+• Firebase Auth + admin role check required
+• QR codes for event registration only
+
+Reporting: CSAE violations reported to NCMEC via privacy@flutterteamlitz.com
+
+Child Safety Officer: surya.litztech@gmail.com
+Last updated: March 11, 2026
 
 Child Safety Contact: surya.litztech@gmail.com
 Report violations: Same email above
